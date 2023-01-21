@@ -208,7 +208,7 @@
 .div-block-10 {
   position: absolute;
   left: 0%;
-  top: 50%;
+  top: 45%;
   width: 70%;
   -webkit-transform: translate(0%, -50%);
   -ms-transform: translate(0%, -50%);
@@ -467,8 +467,10 @@
 }
 
 .large-bold-p-text {
+  color: #111;
   font-size: 34px;
   font-weight: 700;
+  text-decoration: none;
 }
 
 .text-block-3 {
