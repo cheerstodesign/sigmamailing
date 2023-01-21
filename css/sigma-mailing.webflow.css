@@ -913,6 +913,16 @@
     margin-right: 60px;
     margin-left: 60px;
   }
+
+  .text-block-4.footer-text {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .link.footer-link {
+    font-size: 14px;
+    line-height: 24px;
+  }
 }
 
 @media screen and (max-width: 479px) {
